@@ -27,7 +27,7 @@ Open localhost:3000
 
 _Menciona las herramientas que utilizaste para crear tu proyecto_
 
-* [NodeJS](https://nodejs.org/es/) - Package management
+* [NodeJS/express](https://nodejs.org/es/) - Package management
 * [MongoDB](https://www.mongodb.com/) - Database
 * [React](https://rometools.github.io/rome/) - Framework javascript to build user interface
 
