@@ -1,0 +1,51 @@
+{
+  "name": "moviestest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "webpack": "webpack --mode development --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inspired4dev/moviestest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inspired4dev/moviestest/issues"
+  },
+  "homepage": "https://github.com/inspired4dev/moviestest#readme",
+  "dependencies": {
+    "@babel/core": "^7.14.6",
+    "babel": "^6.23.0",
+    "express": "^4.17.1",
+    "history": "^5.0.0",
+    "mongodb": "^3.6.9",
+    "mongoose": "^5.12.15",
+    "morgan": "^1.10.0",
+    "react-icons": "^4.2.0",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.0.0-beta.40",
+    "@babel/core": "^7.0.0-beta.40",
+    "@babel/plugin-proposal-class-properties": "^7.4.4",
+    "@babel/preset-env": "^7.14.7",
+    "@babel/preset-react": "^7.0.0-beta.40",
+    "babel-loader": "^8.0.0-beta.0",
+    "babel-plugin-lodash": "^3.3.2",
+    "babel-plugin-react-transform": "^3.0.0",
+    "nodemon": "^2.0.7",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "reactstrap": "^8.9.0",
+    "webpack": "^5.40.0",
+    "webpack-cli": "^4.7.2",
+    "source-map-loader": "^1.0.0"
+  }
+}
